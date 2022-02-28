@@ -1,0 +1,192 @@
+@charset "UTF-8";
+header {
+    width: 768px;
+    height: 250px;
+    background-image: url(images/header.jpg);	
+}
+main   {
+    width: 768px;
+    height: 1600px;
+    background-color: #ffffff;
+	float:inherit
+}
+
+body {
+    background-image: url(images/bokeh.jpg);
+    color: #191717;
+    font-size: 25px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    background-size: cover;
+    float: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}#container {
+	width: 768px;
+	height: auto;
+	background-color: #ffffff;
+	margin: auto
+		
+		
+}article {
+    padding-bottom: 30px;
+}
+aside {
+    width: 150px;
+    height: 10px;
+    float: left;
+    background-color: #717171;
+}img {
+    float: right;
+}
+p {
+    font-size: 12pt;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif'
+}
+h4 {
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h1 {
+    padding-top: 0px;
+    color: #6BE6FE;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 24px;
+}
+
+.floatleft {
+	float: left;
+	
+}nav {
+    width: 768px;
+    height: 50px;
+}
+#container nav li {
+    list-style-type: none;
+    float: left;
+    width: 150px;
+	margin: auto;
+	text-decoration-style: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+		
+}
+#container nav ul {
+    margin: auto;
+    width: 606px;
+}
+header {
+    width: 768px;
+    height: 250px;
+    background-color: #008000;
+    background-image: url(images/header.jpg);	
+}
+main   {
+    width: 768px;
+    height: 1450px;
+    background-color: #ffffff;
+}
+footer {
+    width: 768px;
+    height: 50px;
+    background-color: #ffffff;
+    float: left;
+}
+body {
+    background-image: url(images/bokeh.jpg);
+    color: #191717;
+    font-size: 25px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    background-size: cover;
+    float: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}#container {
+	width: 768px;
+	height: auto;
+	background-color: #ffffff;
+	margin: auto
+		
+		
+}article {
+    padding-bottom: 30px;
+}
+aside {
+    width: 150px;
+    height: 1450px;
+    float: left;
+    background-color: #717171;
+}img {
+    float: right;
+}
+p {
+    font-size: 12pt;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+}
+h4 {
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h1 {
+    padding-top: 0px;
+    color: #6BE6FE;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 24px;
+}
+
+.floatleft {
+	float: left;
+	
+}nav {
+    width: 768px;
+    height: 50px;
+}
+#container nav li {
+    list-style-type: none;
+    float: left;
+    width: 150px;
+	margin: auto;
+	text-decoration-style: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+		
+}
+#container nav ul {
+    margin: auto;
+    width: 606px;
+}
+.submit_btn {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #65ECFC;
+    text-shadow: 0 0;
+    -webkit-box-shadow: 6px 6px 35px 1px;
+    box-shadow: 6px 6px 35px 1px;
+	
+}
+
+.submit_btn:hover{
+-webkit-box-shadow:	6px 6px 35px 1px #000000;
+box-shadow: 6px 6px 35px 1px #000000;	
+	
+	
+	
+}
+.grinch {
+}
+.frog {
+    float: left;
+}
+.council {
+    float: left;
+}
